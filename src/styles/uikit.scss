@@ -1,9 +1,16 @@
-// uikit import styles
+// Import default variables and available mixins.
+@import "../../node_modules/uikit/src/scss/variables.scss";
+@import "../../node_modules/uikit/src/scss/mixins.scss";
+
+// Import UIkit components
+
+// Import UIkit
+// @import "uikit/src/scss/uikit.scss";
 
 // Base
-@import "variables.scss";
-@import "mixin.scss";
-@import "base.scss";
+@import "../../node_modules/uikit/src/scss/components/variables.scss";
+@import "../../node_modules/uikit/src/scss/components/mixin.scss";
+@import "../../node_modules/uikit/src/scss/components/base.scss";
 
 // Elements
 // @import "link.scss";
@@ -18,11 +25,11 @@
 // @import "button.scss";
 
 // Layout
-@import "section.scss";
-@import "container.scss";
-@import "grid.scss";
-@import "tile.scss";
-@import "card.scss";
+// @import "section.scss";
+// @import "container.scss";
+// @import "grid.scss";
+// @import "tile.scss";
+// @import "card.scss";
 
 // Common
 // @import "close.scss"; // After: Icon
