@@ -4,8 +4,8 @@
 
 clone - <code>git clone https://github.com/BlackFxTalon/Ninji-uikit-template</code>
 
-npm install
+install dependencies - <code>npm i</code>
 
-gulp dev
+launch development - <code>gulp dev</code>
 
-gulp build
+launch production - <code>gulp build</code>
