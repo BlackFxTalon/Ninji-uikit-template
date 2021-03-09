@@ -2,7 +2,7 @@
 
 <p>DEPRECATED!!!</p>
 
-git clone https://github.com/BlackFxTalon/ninji-uikit-boilerplate/
+clone - <code>git clone https://github.com/BlackFxTalon/Ninji-uikit-template</code>
 
 npm install
 
